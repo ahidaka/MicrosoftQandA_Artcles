@@ -34,7 +34,7 @@ Windows Home をご利用の場合は BitLocker が無いので利用出来ま�
 
 ---
 
-![Microsoftアカウントに保存する](BirLocker-Save.png)
+![Microsoftアカウントに保存する](BirLocker-save.png)
 
 **Microsoftアカウントに保存する**
 
